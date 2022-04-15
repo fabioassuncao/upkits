@@ -1,3 +1,7 @@
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
 .hreader-area {
     display: flex;
     align-items: center;
@@ -67,6 +71,7 @@
 }
 
 .header-btn a svg {
+    height: 21px;
     width: 21px;
     fill: white;
     margin-right: 5px;

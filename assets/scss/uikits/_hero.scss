@@ -1,5 +1,43 @@
 .hero-section {
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.hero-area {
+    margin-top: 135px;
+    margin-bottom: 90px;
+    padding: 0 80px;
+}
+
+.hero-top-section.text-center h2 {
+    font-size: 60px;
+    font-weight: 800;
+    color: white;
+    line-height: 81.96px;
+    margin-bottom: 30px;
+}
+
+.hero-top-section.text-center h2 span {
+    color: #906CF7;
+}
+
+.hero-top-section.text-center p {
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    color: white;
+    line-height: 37px;
+    font-weight: 400;
+}
+
+.hero-resource a img {
+    background: white;
+    padding: 15px 15px;
+    border-radius: 40px;
+    margin-right: 30px;
+}
+
+.hero-resource.text-center {
+    margin-top: 30px;
 }
