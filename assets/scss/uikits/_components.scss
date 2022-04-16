@@ -1,0 +1,54 @@
+.component-section {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.components-content h5 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #454545;
+    line-height: 30.05px;
+}
+
+.components-content h2 {
+    font-size: 55px;
+    font-weight: 300;
+    line-height: 75.13px;
+}
+
+.components-content h2 span {
+    color: $btn_color;
+}
+
+.components-content h1 {
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 75.13px;
+    color: #454545;
+    margin-bottom: 30px;
+}
+
+.components-content h1 span {
+    color: $btn_color;
+}
+
+.components-content p {
+    margin-bottom: 30px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 38px;
+}
+
+.components-btn a {
+    font-size: 21px;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 23px;
+    color: $btn_color;
+}
+
+.components-btn a svg {
+    fill: $btn_color;
+}

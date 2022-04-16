@@ -11219,7 +11219,7 @@ body {
 }
 
 .hero-top-section.text-center h2 span, .hero-top-section.text-center .h2 span {
-  color: #906CF7;
+  color: #906CF6;
 }
 
 .hero-top-section.text-center p {
@@ -11264,7 +11264,7 @@ body {
 }
 
 .feature-item h2 span, .feature-item .h2 span {
-  color: #906CF7;
+  color: #906CF6;
 }
 
 .feature-item h3, .feature-item .h3 {
@@ -11275,7 +11275,7 @@ body {
 }
 
 .feature-item h3 span, .feature-item .h3 span {
-  color: #906CF7;
+  color: #906CF6;
 }
 
 .feature-content h4, .feature-content .h4 {
@@ -11298,7 +11298,7 @@ body {
   text-decoration: none;
   line-height: 43px;
   font-weight: 600;
-  background: #906CF7;
+  background: #906CF6;
   color: white;
   border-radius: 5px;
   padding: 10px 30px;
@@ -11320,4 +11320,59 @@ body {
 
 .feature-content h4, .feature-content .h4 {
   margin-top: 25px;
+}
+
+.component-section {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.components-content h5, .components-content .h5 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 22px;
+  font-weight: 700;
+  color: #454545;
+  line-height: 30.05px;
+}
+
+.components-content h2, .components-content .h2 {
+  font-size: 55px;
+  font-weight: 300;
+  line-height: 75.13px;
+}
+
+.components-content h2 span, .components-content .h2 span {
+  color: #906CF6;
+}
+
+.components-content h1, .components-content .h1 {
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 75.13px;
+  color: #454545;
+  margin-bottom: 30px;
+}
+
+.components-content h1 span, .components-content .h1 span {
+  color: #906CF6;
+}
+
+.components-content p {
+  margin-bottom: 30px;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 38px;
+}
+
+.components-btn a {
+  font-size: 21px;
+  font-weight: 400;
+  text-decoration: none;
+  line-height: 23px;
+  color: #906CF6;
+}
+
+.components-btn a svg {
+  fill: #906CF6;
 }
