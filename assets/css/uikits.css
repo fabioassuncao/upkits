@@ -11198,6 +11198,94 @@ body {
   margin-right: 5px;
 }
 
+.form-check.form-switch input {
+  height: 30px;
+  width: 60px;
+  margin-right: 9px;
+}
+
+.footer-area {
+  background: #FAF9FA;
+  margin-top: -260px;
+  z-index: 1;
+}
+
+.row.align-items-center.footer-main-area {
+  padding-top: 347px;
+  padding-bottom: 81px;
+}
+
+.subscribe-area {
+  z-index: 9;
+  position: relative;
+}
+
+.footer-logo img {
+  margin-bottom: 34px;
+}
+
+.footer-logo p {
+  font-size: 18px;
+  line-height: 35px;
+  font-weight: 300;
+  margin: 0;
+  color: #666666;
+}
+
+.footer-social-link a svg {
+  fill: white;
+  width: 20.81px;
+  height: 20.81px;
+}
+
+.footer-social-link a {
+  background: #906CF6;
+  padding: 17px;
+  border-radius: 30px;
+  margin-right: 21px;
+}
+
+.footer-social-link {
+  margin-top: 34px;
+}
+
+.footer-header h5, .footer-header .h5 {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 35px;
+  margin-bottom: 20px;
+}
+
+.footer-menu ul li {
+  list-style: none;
+}
+
+.footer-menu ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 300;
+  color: #666666;
+  margin-bottom: 10px;
+  line-height: 35px;
+}
+
+.footer-menu ul {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.single-footer-section.text-center h3, .single-footer-section.text-center .h3 {
+  margin-top: 23px;
+  margin-bottom: 23px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 35px;
+}
+
+.row.align-items-center.footer-main-area {
+  border-bottom: 1px solid #ECE9E9;
+}
+
 .hero-section {
   background-position: bottom;
   background-repeat: no-repeat;
@@ -11326,6 +11414,11 @@ body {
   margin-top: -10px;
 }
 
+.feature-item h5, .feature-item .h5 {
+  border-bottom: 2px solid #454545;
+  display: inline-block;
+}
+
 .component-section {
   margin-top: 150px;
   margin-bottom: 150px;
@@ -11385,6 +11478,11 @@ body {
   margin-top: -20px;
 }
 
+.components-content h5, .components-content .h5 {
+  border-bottom: 2px solid #454545;
+  display: inline-block;
+}
+
 .template-section {
   margin-top: 150px;
   margin-bottom: 150px;
@@ -11441,6 +11539,11 @@ body {
 
 .templates-content h1, .templates-content .h1 {
   margin-top: -17px;
+}
+
+.templates-content h5, .templates-content .h5 {
+  border-bottom: 2px solid #454545;
+  display: inline-block;
 }
 
 .landing-pages {
@@ -11528,6 +11631,11 @@ body {
   margin-top: -17px;
 }
 
+.landing-content h5, .landing-content .h5 {
+  border-bottom: 2px solid #454545;
+  display: inline-block;
+}
+
 .inner-pages {
   padding: 150px 0;
 }
@@ -11571,6 +11679,11 @@ body {
   margin-top: -10px;
 }
 
+.inner-content h5, .inner-content .h5 {
+  display: inline-block;
+  border-bottom: 2px solid #454545;
+}
+
 .subscribe-area {
   background-position: center;
   background-repeat: no-repeat;
@@ -11611,7 +11724,7 @@ body {
   position: absolute;
   right: 12px;
   border: none;
-  background: #906CF7;
+  background: #906CF6;
   border-radius: 10px;
   padding: 10px 30px;
   top: 12px;
@@ -11636,7 +11749,7 @@ body {
   position: absolute;
   right: 8px;
   border: none;
-  background: #906CF7;
+  background: #906CF6;
   border-radius: 10px;
   padding: 10px 30px;
   top: 7px;
