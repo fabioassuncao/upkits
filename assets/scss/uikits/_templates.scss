@@ -18,7 +18,7 @@
 }
 
 .templates-content h2 span {
-    color: #906CF7;
+    color: $btn_color;
 }
 
 .templates-content h1 {
@@ -30,7 +30,7 @@
 }
 
 .templates-content h1 span {
-    color: #906CF7;
+    color: $btn_color;
 }
 
 .templates-content p {
@@ -45,9 +45,9 @@
     font-weight: 700;
     line-height: 23px;
     text-decoration: none;
-    color: #906CF7;
+    color: $btn_color;
 }
 
 .templates-btn a svg {
-    fill: #906CF7;
+    fill: $btn_color;
 }

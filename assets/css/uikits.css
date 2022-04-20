@@ -11397,7 +11397,7 @@ body {
 }
 
 .templates-content h2 span, .templates-content .h2 span {
-  color: #906CF7;
+  color: #906CF6;
 }
 
 .templates-content h1, .templates-content .h1 {
@@ -11409,7 +11409,7 @@ body {
 }
 
 .templates-content h1 span, .templates-content .h1 span {
-  color: #906CF7;
+  color: #906CF6;
 }
 
 .templates-content p {
@@ -11424,11 +11424,11 @@ body {
   font-weight: 700;
   line-height: 23px;
   text-decoration: none;
-  color: #906CF7;
+  color: #906CF6;
 }
 
 .templates-btn a svg {
-  fill: #906CF7;
+  fill: #906CF6;
 }
 
 .landing-pages {
@@ -11451,7 +11451,7 @@ body {
 }
 
 .landing-content h2 span, .landing-content .h2 span {
-  color: #906CF7;
+  color: #906CF6;
 }
 
 .landing-content h3, .landing-content .h3 {
@@ -11463,7 +11463,7 @@ body {
 }
 
 .landing-content h3 span, .landing-content .h3 span {
-  color: #906CF7;
+  color: #906CF6;
 }
 
 .single-landing-page {
@@ -11510,4 +11510,43 @@ body {
   font-weight: 600;
   line-height: 19.12px;
   color: white;
+}
+
+.inner-pages {
+  padding: 150px 0;
+}
+
+.inner-content h5, .inner-content .h5 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 30.05px;
+  color: #454545;
+  margin-bottom: 18px;
+}
+
+.inner-content h2, .inner-content .h2 {
+  font-size: 55px;
+  font-weight: 300;
+  color: #454545;
+}
+
+.inner-content h2 span, .inner-content .h2 span {
+  color: #906CF6;
+}
+
+.inner-content h1, .inner-content .h1 {
+  font-size: 55px;
+  font-weight: 700;
+  color: #454545;
+  margin-bottom: 20px;
+}
+
+.inner-content h1 span, .inner-content .h1 span {
+  color: #906CF6;
+}
+
+.single-inner-page {
+  box-shadow: 0 0 20px #f8f6f6;
+  border-radius: 10px;
+  margin-bottom: 18px;
 }

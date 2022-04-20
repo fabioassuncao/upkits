@@ -1,0 +1,38 @@
+.inner-pages {
+    padding: 150px 0;
+}
+
+.inner-content h5 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30.05px;
+    color: #454545;
+    margin-bottom: 18px;
+}
+
+.inner-content h2 {
+    font-size: 55px;
+    font-weight: 300;
+    color: #454545;
+}
+
+.inner-content h2 span {
+    color: $btn_color;
+}
+
+.inner-content h1 {
+    font-size: 55px;
+    font-weight: 700;
+    color: #454545;
+    margin-bottom: 20px;
+}
+
+.inner-content h1 span {
+    color: $btn_color;
+}
+
+.single-inner-page {
+    box-shadow: 0 0 20px #f8f6f6;
+    border-radius: 10px;
+    margin-bottom: 18px;
+}
