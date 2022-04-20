@@ -11322,6 +11322,10 @@ body {
   margin-top: 25px;
 }
 
+.feature-item h3, .feature-item .h3 {
+  margin-top: -10px;
+}
+
 .component-section {
   margin-top: 150px;
   margin-bottom: 150px;
@@ -11377,6 +11381,10 @@ body {
   fill: #906CF6;
 }
 
+.components-content h1, .components-content .h1 {
+  margin-top: -20px;
+}
+
 .template-section {
   margin-top: 150px;
   margin-bottom: 150px;
@@ -11429,6 +11437,10 @@ body {
 
 .templates-btn a svg {
   fill: #906CF6;
+}
+
+.templates-content h1, .templates-content .h1 {
+  margin-top: -17px;
 }
 
 .landing-pages {
@@ -11512,6 +11524,10 @@ body {
   color: white;
 }
 
+.landing-content h3, .landing-content .h3 {
+  margin-top: -17px;
+}
+
 .inner-pages {
   padding: 150px 0;
 }
@@ -11549,4 +11565,91 @@ body {
   box-shadow: 0 0 20px #f8f6f6;
   border-radius: 10px;
   margin-bottom: 18px;
+}
+
+.inner-content h1, .inner-content .h1 {
+  margin-top: -10px;
+}
+
+.subscribe-area {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 150px;
+  border-radius: 50px;
+}
+
+.subscribe-header h1, .subscribe-header .h1 {
+  font-size: 48px;
+  line-height: 65.57px;
+  font-weight: 600;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+  padding: 0px 115px;
+}
+
+.subscribe-header.text-center h6, .subscribe-header.text-center .h6 {
+  font-size: 21px;
+  font-weight: 300;
+  color: white;
+  line-height: 28.69px;
+  margin-bottom: 35px;
+}
+
+.subscribe-btn.text-center input {
+  width: 100%;
+  padding: 20px 0;
+  border-radius: 10px;
+  border: none;
+}
+
+.subscribe-btn.text-center {
+  position: relative;
+}
+
+.subscribe-btn.text-center button {
+  position: absolute;
+  right: 12px;
+  border: none;
+  background: #906CF7;
+  border-radius: 10px;
+  padding: 10px 30px;
+  top: 12px;
+  font-size: 21px;
+  font-weight: 300;
+  color: white;
+}
+
+.subscribe-btn.text-center input {
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+  height: 65px;
+  padding: 0 25px;
+}
+
+.subscribe-btn.text-center {
+  position: relative;
+}
+
+.subscribe-btn.text-center button {
+  position: absolute;
+  right: 8px;
+  border: none;
+  background: #906CF7;
+  border-radius: 10px;
+  padding: 10px 30px;
+  top: 7px;
+  font-size: 21px;
+  font-weight: 300;
+  color: white;
+}
+
+.subscribe-details {
+  padding: 122px 0;
+}
+
+.subscribe-btn.text-center input:focus {
+  outline: 0;
+  box-shadow: none;
 }
