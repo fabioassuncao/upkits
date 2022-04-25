@@ -11119,6 +11119,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  font-family: "Manrope", sans-serif;
+}
+
 .header-sign a span {
   font-size: 17px;
   font-weight: 500;
@@ -11252,4 +11256,116 @@ textarea.form-control-lg {
 
 .hero-right-bar-img {
   float: right;
+}
+
+.featured-section {
+  padding: 150px 0;
+}
+
+.featured-header.text-center h5, .featured-header.text-center .h5 {
+  font-size: 21px;
+  line-height: 28.69px;
+  font-weight: 400;
+  margin-bottom: 6px;
+}
+
+.featured-header.text-center h2, .featured-header.text-center .h2 {
+  font-size: 51px;
+  line-height: 69.67px;
+  font-weight: 800;
+  color: #454545;
+  margin-bottom: 6px;
+}
+
+.featured-header.text-center p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 33px;
+  color: #666666;
+  margin-bottom: 33px;
+}
+
+.featured-details {
+  box-shadow: 0 0 20px #F9F4F4;
+  border-radius: 10px;
+  padding: 53px 29px;
+}
+
+.content-feature {
+  margin-top: 23px;
+  margin-bottom: 23px;
+}
+
+.content-feature h5, .content-feature .h5 {
+  font-size: 25px;
+  line-height: 33px;
+  font-weight: 700;
+  margin-bottom: 23px;
+}
+
+.content-feature p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 33px;
+  color: #666666;
+}
+
+.featured-btn a {
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 20.49px;
+  font-weight: 400;
+  color: #171717;
+  border: 1px solid #000000;
+  padding: 13px 30px;
+  line-height: 36px;
+  border-radius: 5px;
+}
+
+.goal-section {
+  background: rgba(251, 239, 231, 0.6);
+  padding: 150px 0;
+}
+
+.goal-header h3, .goal-header .h3 {
+  font-size: 51px;
+  line-height: 67.26px;
+  font-weight: 600;
+  color: #454545;
+  margin-bottom: 13px;
+}
+
+.goal-header p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  margin: 0;
+  color: #666666;
+}
+
+.goal-tracker {
+  margin-top: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background: white;
+  border-radius: 20px;
+  padding: 26px 38px;
+}
+
+.timer-details {
+  margin-left: 28px;
+}
+
+.timer-details h5, .timer-details .h5 {
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 34.15px;
+  margin-bottom: 8px;
+}
+
+.timer-details h6, .timer-details .h6 {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 24.59px;
 }

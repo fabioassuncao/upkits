@@ -1,0 +1,47 @@
+.goal-section {
+    background: rgba(251, 239, 231, 0.6);
+    padding: 150px 0;
+}
+
+.goal-header h3 {
+    font-size: 51px;
+    line-height: 67.26px;
+    font-weight: 600;
+    color: #454545;
+    margin-bottom: 13px;
+}
+
+.goal-header p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    margin: 0;
+    color: #666666;
+}
+
+.goal-tracker {
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background: white;
+    border-radius: 20px;
+    padding: 26px 38px;
+}
+
+.timer-details {
+    margin-left: 28px;
+}
+
+.timer-details h5 {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 34.15px;
+    margin-bottom: 8px;
+}
+
+.timer-details h6 {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 24.59px;
+}
