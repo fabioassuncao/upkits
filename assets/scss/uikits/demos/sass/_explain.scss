@@ -1,0 +1,64 @@
+body {
+    font-family: 'Manrope';
+    font-family: 'Roboto Slab';
+}
+
+.explain-area {
+    padding: 150px 0;
+}
+
+.explain-header h1 {
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 65.94px;
+    color: #454545;
+    margin-bottom: 16px;
+}
+
+.explain-header p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    color: #666666;
+    margin-bottom: 37px;
+}
+
+.explain-design ul li {
+    list-style: none;
+    margin-bottom: 23px;
+}
+
+.explain-design ul {
+    margin: 0;
+    padding: 0;
+}
+
+.explain-design ul li a {
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 23.22px;
+    color: #666666;
+}
+
+.explain-design ul li a svg {
+    width: 26.25px;
+    height: 26.25px;
+    fill: #666666;
+    margin-right: 9px;
+}
+
+.expain-btn a {
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+    color: black;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 16px 58px;
+    line-height: 55px;
+}
+
+.expain-btn {
+    margin-top: 37px;
+}
