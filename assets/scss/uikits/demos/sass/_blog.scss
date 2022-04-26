@@ -1,0 +1,91 @@
+.blog-area {
+    padding: 150px 0;
+}
+
+.blog-details.text-center h6 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.69px;
+    margin-bottom: 6px;
+}
+
+.blog-details.text-center h2 {
+    font-size: 51px;
+    font-weight: 800;
+    line-height: 69.67px;
+    margin-bottom: 6px;
+    color: #454545;
+}
+
+.blog-details.text-center p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    color: #666666;
+    margin-bottom: 30px;
+    padding: 0 28px;
+}
+
+.single-blog-section {
+    box-shadow: 0px 0px 20px #F5F4F4;
+    border-radius: 5px;
+}
+
+.blog-img img {
+    width: 100%;
+}
+
+.blog-timer {
+    padding: 20px 30px;
+}
+
+.blog-admin h4 {
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 30.33px;
+    margin-bottom: 17px;
+}
+
+.blog-user-date {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 17px;
+}
+
+.user-blog span {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.86px;
+    color: #666666;
+}
+
+.user-blog svg {
+    width: 17.5px;
+    height: 17.5px;
+    margin-right: 8px;
+}
+
+.user-blog {
+    margin-right: 38px;
+}
+
+.user-date svg {
+    width: 17.5px;
+    height: 17.5px;
+    margin-right: 8px;
+}
+
+.user-date span {
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+}
+
+.blog-content p {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 28px;
+    color: #666666;
+}
